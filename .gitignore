@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 exports/**
+figures/**
+cart-control_files
+cart-control.html
+cart-control.md
